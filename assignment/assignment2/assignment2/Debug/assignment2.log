@@ -1,0 +1,42 @@
+﻿  RayTracer.cpp
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\SceneObject.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\SceneObject.h(27,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\SceneObject.h(28,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(50,27): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(63,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(67,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(121,37): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(127,37): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(133,37): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(238,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(248,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(249,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(255,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(260,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(313,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\assignment2\RayTracer.cpp(320,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  assignment2.vcxproj -> C:\Users\Phillip\uni_courses\COSC363\assignment\assignment2\Debug\assignment2.exe

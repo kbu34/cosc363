@@ -1,0 +1,18 @@
+#version 400
+
+layout(quads, equal_spacing, ccw) in;
+
+uniform mat4 mvpMatrix;
+
+void main()
+{
+    vec4 posn;
+    float u = gl_TessCoord.x;
+    float v = gl_TessCoord.y;
+
+    //Complete the following statement
+    //posn = (1-u)* (1-v) * gl_in[0].gl_Position
+    //     + ...  
+
+    gl_Position = mvpMatrix * posn;
+}
